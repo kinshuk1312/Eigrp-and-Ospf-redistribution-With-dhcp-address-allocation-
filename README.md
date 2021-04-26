@@ -1,7 +1,7 @@
 # Eigrp-and-Ospf-redistribution-With-dhcp-address-allocation-
 Task: Make Topologies Using OSPF and EIGRP. Do IP allocation using DHCP. Configure DNS.
 
-### OSPf
+### OSPF
 Open Shortest Path First is a routing protocol for Internet Protocol networks. It uses a link state routing algorithm and falls into the group of interior gateway protocols, operating within a single autonomous system. It is defined as OSPF Version 2 in RFC 2328 for IPv4.
 
 ### EIGRP 
